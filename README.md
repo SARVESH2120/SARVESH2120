@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Sarvesh 👨‍🎓 </h1>
 <p>I am fullstack developer from India 
-  <span><a><img src="https://www.svgrepo.com/show/405510/flag-for-flag-india.svg" alt="IndiaFlag" width="30" height="30" /></a></span>
+  <span><a><img align="center" src="https://www.svgrepo.com/show/405510/flag-for-flag-india.svg" alt="IndiaFlag" width="30" height="30" /></a></span>
   I am aspiring Software Developer</p>
 
 <h3>Currently I am working with...</h3>
