@@ -6,7 +6,7 @@
 <h3>Currently I am working with...</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/29753/javascript.svg" alt="javascript" width="30" height="30" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="react" width="30" height="30" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354274/redux.svg" alt="redux" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="react" width="30" height="30" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354274/redux.svg" alt="redux" width="30" height="30" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="30" height="30" /></a>
 </p>
 
