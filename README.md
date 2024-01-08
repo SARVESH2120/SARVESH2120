@@ -22,4 +22,11 @@
 </p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarvesh2120&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarvesh2120&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh2120&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sarvesh2120&icon=0&color=9)](https://visitcount.itsvg.in)
 
