@@ -21,7 +21,7 @@
 <a href="https://mail.google.com/mail/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Gmail" width="30" height="30" /></a>
 </p>
 
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=sarvesh2120&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarvesh2120&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh2120&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -31,7 +31,5 @@
 
 
   
-</p>
-
 
 
